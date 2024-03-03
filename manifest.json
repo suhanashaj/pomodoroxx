@@ -1,11 +1,15 @@
-
 {
-  "manifest_version": 3,
-  "name": "Pomodoro Timer",
-  "version": "1.0",
-  "description": "A simple Pomodoro Timer extension",
-  "permissions": ["activeTab"],
-  "action": {
-    "default_popup": "index.html"
+  "name": "pomodoro-timer",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^13.1.9"
   }
 }
+
