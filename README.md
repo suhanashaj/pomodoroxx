@@ -1,0 +1,1 @@
+This website is designed to assist both students and professionals in effectively managing their time. Users can input their work or study schedules, as well as allocate specific break times. This tool proves invaluable for setting and achieving daily goals.
